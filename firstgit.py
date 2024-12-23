@@ -1,1 +1,2 @@
 print('AOA')
+print('WS')
